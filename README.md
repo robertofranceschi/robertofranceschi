@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🚀 I deal with Computer Vision and Robotics, working on cool multi-view 3D reconstruction projects.
 
-💡 3+ years of hands-on experience in Computer Vision and Machine Learning, specializing in multi-view 3D reconstruction (NeRF, gsplat). Extensive experience in perception, training neural nets for Radar, Lidar, and Camera object detection.
+💡 5+ years of hands-on experience in Computer Vision and Machine Learning, specializing in multi-view 3D reconstruction (NeRF, gsplat). Extensive experience in perception, training neural nets for Radar, Lidar, and Camera object detection.
 
 🎓 M.Sc. in Data Science and Engineering @ Politecnico di Torino
 
